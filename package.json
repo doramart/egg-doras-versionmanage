@@ -1,6 +1,6 @@
 {
   "name": "egg-doras-versionmanage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "versionManage",
   "eggPlugin": {
     "name": "doraVersionManage"
@@ -11,10 +11,8 @@
     "egg-plugin"
   ],
   "dependencies": {
-    
     "moment": "^2.24.0",
-    "lodash": "^4.17.15",
-    "xss": "^1.0.6"
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
     "autod": "^3.0.1",
